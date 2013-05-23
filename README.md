@@ -1,4 +1,4 @@
 mycode
 ======
 
-Repository that contains code snippets I wrote for exercise
+Repository that contains code snippets I wrote as an exercise
